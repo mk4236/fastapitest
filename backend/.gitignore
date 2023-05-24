@@ -2,5 +2,5 @@
 myapi.db
 *.pyc
 __pycache__
-migrations
-alembic.ini
+# migrations
+# alembic.ini
